@@ -17,20 +17,32 @@ Claudia Gold's http://www.mysliderule.com/learning-paths/data-analysis/learn/ an
 a. General programming knowledge
 - 6.01: Introduction to Electrical Engineering and Computer Science (MIT) 
 
-d. Other topics
+b. Databases
 - Stanford’s Introduction to Databases
+
+c. Python
+- Install Python and its scientific packages (NumPy, SciPy, matplotlib, IPython, pandas). 
+- I recommend installing Enthought Canopy or Anaconda, which are comprehensive scientific computing distributions of Python. These packages facilitate library installation and offer a useful programming environment. 
+
+d. Other topics
 - Udacity's Design of Computer Programs: A MOOC geared towards those with an intermediate programming level who want to fine-tune their programming design skills. The course has some great examples of clean and efficient code and an engaging lecturer.
 
 #### II. Statistics and Math
 a. A class on statistics
+
 b. A class on probability
+Harvard's Stat 110 - available on iTunes U. https://itunes.apple.com/us/course/statistics-110-probability/id502492375
+
 c. Linear Algebra — any class should be fine.
+
 d. Differential Equations. 
+
 e. Single and Multi-variable Calculus. 
+
 
 Schey’s Div, Grad, Curl, and All That’ offers a nice overview of the major topics in multivariate calculus. I’d recommend this book as a refresher for those who haven’t taken multivariate calculus in some time, or as a supplementary text for those working through a more rigorous primary text. 
 
-I suggest that you use computational tools to work through math problems wherever possible. 'Think Stats: Probability and Statistics for Programmers' is a great companion text that goes through statistics problems while using python's scipy and numpy libraries to facilitate running statistical simulations. 
+I suggest that you use computational tools to work through math problems wherever possible. 'Think Stats: Probability and Statistics for Programmers' is a great companion text that goes through statistics problems while using python's scipy and numpy libraries to facilitate running statistical simulations. This iPython notebook goes over solving Differential Equations using Python: http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb
 
 
 #### III. Experimental Design and Data Analysis
@@ -45,6 +57,13 @@ B. Data Analysis
 #### IV. Practical stuff
 A. A/B testing:
 http://www.wired.com/2012/04/ff_abtesting/
+
+
+#### V. Additional Elective Work
+
+A. Algorithms
+
+B. Additional Machine Learning work 
 
 
 
