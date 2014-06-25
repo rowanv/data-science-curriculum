@@ -21,16 +21,28 @@ b. Databases
 - Stanford’s Introduction to Databases
 
 c. Python
+- If you've never programmed with Python before, start out with Code Academy's Python tutorial. http://www.codecademy.com/en/tracks/python
+- Learn Python the Hard Way - http://bit.ly/ebook-learnpyhardway
+- Google's Python class - http://bit.ly/T4j40A
+- At this point, you should have a strong enough Python background to start working through Harvard's Stat 110. The lectures will take you through the the material in the next few bullet points, but you may want to start the class in parallel and watch the first few recitation videos, as they will provide some useful exercises that use Python's data analysis packages. 
 - Install Python and its scientific packages (NumPy, SciPy, matplotlib, IPython, pandas). 
 - I recommend installing Enthought Canopy or Anaconda, which are comprehensive scientific computing distributions of Python. These packages facilitate library installation and offer a useful programming environment. 
+- Python for Data Analysis - http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?ie=UTF8&qid=1403656221&sr=8-1&keywords=python+for+data+analysis - $25
 
-d. Other topics
+d. R
+- Install RStudio.
+- You should be able to pick up a basic understanding of R from The Analytics Edge course. 
+- 
+- ggplot cookbook. 
+
+e. Other topics
 - Udacity's Design of Computer Programs: A MOOC geared towards those with an intermediate programming level who want to fine-tune their programming design skills. The course has some great examples of clean and efficient code and an engaging lecturer.
 
 #### II. Statistics and Math
 a. A class on statistics
 
 b. A class on probability
+
 Harvard's Stat 110 - available on iTunes U. https://itunes.apple.com/us/course/statistics-110-probability/id502492375
 
 c. Linear Algebra — any class should be fine.
@@ -57,6 +69,10 @@ B. Data Analysis
 #### IV. Practical stuff
 A. A/B testing:
 http://www.wired.com/2012/04/ff_abtesting/
+
+B. Data Visualization
+
+C. Writing
 
 
 #### V. Additional Elective Work
