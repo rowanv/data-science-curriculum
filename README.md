@@ -74,6 +74,12 @@ B. Data Visualization
 
 C. Writing
 
+D. Nate Silver's book
+
+E. Online reading material
+- Stack Overflow, Cross Validated (http://stats.stackexchange.com/), Data Science Stack Exchange (http://datascience.stackexchange.com/). 
+- Data Tau
+
 
 #### V. Additional Elective Work
 
