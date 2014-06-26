@@ -32,11 +32,11 @@ c. Python
 d. R
 - Install RStudio.
 - You should be able to pick up a basic understanding of R from The Analytics Edge course. 
-- 
 - ggplot cookbook. 
 
 e. Other topics
 - Udacity's Design of Computer Programs: A MOOC geared towards those with an intermediate programming level who want to fine-tune their programming design skills. The course has some great examples of clean and efficient code and an engaging lecturer.
+
 
 #### II. Statistics and Math
 a. A class on statistics
@@ -84,6 +84,7 @@ E. Online reading material
 #### V. Additional Elective Work
 
 A. Algorithms
+- Udacity's algorithms course. 40 hours. 
 
 B. Additional Machine Learning work 
 
