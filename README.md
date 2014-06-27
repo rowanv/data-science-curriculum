@@ -71,10 +71,14 @@ A. A/B testing:
 http://www.wired.com/2012/04/ff_abtesting/
 
 B. Data Visualization
+- Check out Tableau -- a useful drag-and-drop style visualization tool. Here is a gallery of some of the things that are possible using Tableau. 
+- ggplot 
+- If you'd like to work with matplotlib and want to improve on its default settings (which you should, because the default settings are not that great), check out this notebook: http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_03_statistical_graphs.ipynb . It goes over some Python code to re-style the matplotlib's default settings by stripping out charg junk and the like. The notebook was created by  Harvard's CS 109 Data Science instructors. 
 
 C. Writing
 
 D. Nate Silver's book
+- Nate Silver, who came to national prominence after his accurate predictions of the 2012 presidential elections, wrote a pop science book to go over the logic behind a number of modern-day predictive systems, as well as how he arrived at his own election predictions. http://www.amazon.com/The-Signal-Noise-Predictions-Chinese/dp/0143124005/ref=tmm_pap_title_0
 
 E. Online reading material
 - Stack Overflow, Cross Validated (http://stats.stackexchange.com/), Data Science Stack Exchange (http://datascience.stackexchange.com/). 
