@@ -91,7 +91,8 @@ A. Algorithms
 - Udacity's algorithms course. 40 hours. 
 
 B. Additional Machine Learning work 
-
+- Hastie et al.'s 'The Elements of Statistical Learning'
+- Stanford's 'StatLearning Statistical Learning' MOOC. Utilizes the Hastie textbook. 
 
 
 
