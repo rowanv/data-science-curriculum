@@ -85,13 +85,17 @@ E. Online reading material
 - Data Tau
 
 
+F. Machine Learning
+- Lantz's 'Machine Learning with R'
+
+
 #### V. Additional Elective Work
 
 A. Algorithms
 - Udacity's algorithms course. 40 hours. 
 
 B. Additional Machine Learning work 
-- Hastie et al.'s 'The Elements of Statistical Learning'
+- Hastie et al.'s 'The Elements of Statistical Learning' -- this is an excellent desktop reference. It goes over all of the most popular Statistical Learning/Machine Learning techniques, including the math behind major algorithms, and includes references to the most relevant publications for each technique. This book is of great value if you want to gain an in-depth understanding of Statistical Learning techniques, but could be frustrating if you were to use it as your first foray into the field. 
 - Stanford's 'StatLearning Statistical Learning' MOOC. Utilizes the Hastie textbook. 
 
 C. Data Visualization
