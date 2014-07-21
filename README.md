@@ -86,7 +86,10 @@ E. Online reading material
 
 
 F. Machine Learning
+- Work through this Machine Learning tutorial. http://metacademy.org/roadmaps/cjrd/level-up-your-ml It will guide you through the following textbooks:
 - Lantz's 'Machine Learning with R'
+- Bishop's 'Pattern Recognition and Machine Learning'
+- Koller et al.'s 'Probabilistic Graphical Models: Principles and Techniques. 
 
 
 #### V. Additional Elective Work
