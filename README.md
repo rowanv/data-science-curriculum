@@ -18,7 +18,7 @@ a. General programming knowledge
 - 6.01: Introduction to Electrical Engineering and Computer Science (MIT) 
 
 b. Databases
-- Stanford’s Introduction to Databases
+- Stanford’s [Introduction to Databases](https://class.stanford.edu/courses/Engineering/db/2014_1/about)
 
 c. Python
 - If you've never programmed with Python before, start out with Code Academy's Python tutorial. http://www.codecademy.com/en/tracks/python
