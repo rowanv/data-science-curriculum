@@ -102,5 +102,7 @@ B. Additional Machine Learning work
 C. Data Visualization
 - Developing Data Products - Coursera, Johns Hopkins University. Covers creating data products using Shiny, R packages, and interactive graphics in order to better explain your data. 
 
-
+D. Extra stat things
+-Time series analysis
+-Non-parametric statistics
 
