@@ -103,6 +103,8 @@ C. Data Visualization
 - Developing Data Products - Coursera, Johns Hopkins University. Covers creating data products using Shiny, R packages, and interactive graphics in order to better explain your data. 
 
 D. Extra stat things
--Time series analysis
--Non-parametric statistics
+
+-Time series analysis. [Introductory Time Series with R](http://www.amazon.com/Introductory-Time-Series-Paul-Cowpertwait/dp/0387886974/ref=sr_1_1?ie=UTF8&qid=1408457691&sr=8-1&keywords=time+series+analysis+r) -- Cowpertwait et al.
+
+-Non-parametric statistics. It is quite useful to be familiar with non-parametric methods, given that real-world data tends to be messy, and parametric assumptions are often violated.
 
