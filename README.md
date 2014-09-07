@@ -39,7 +39,7 @@ e. Other topics
 
 
 #### II. Statistics and Math
-a. A class on statistics, and a class on probability. I recommend a more basic book or MOOC (such as Spiegel's Schaum's Outline of Statistics), and then working your way through Wasserman's 'All of Statistics: A Concise Course in Statistical Inference' -- it covers the essentials of statistics and probability that you need and is tailored towards students that will later apply these concepts to statistics, data mining, and mchine learning. 
+a. A class on statistics, and a class on probability. I recommend a more basic book or MOOC (such as Spiegel's Schaum's Outline of Statistics), and then working your way through a statistics textbook. If you were to only buy one statistics book, I recommend Field et al.'s 'Discovering Statistics Using R', it will give you a brief overview about how to use R, and focuses on the applications of statistical concepts, rather than just their theory. Also, the author is pretty hilarious, and the book includes a data set with every chapter, which will give you an opportunity to start working with some real-world data. Its shortfalls include that it does not cover probability, and it is not as mathematically rigorous as other texts. A great supplement Wasserman's 'All of Statistics: A Concise Course in Statistical Inference' -- it covers the essentials of statistics and probability that you need and is tailored towards students that will later apply these concepts to statistics, data mining, and mchine learning. 
 
 Harvard's Stat 110 - available on iTunes U. https://itunes.apple.com/us/course/statistics-110-probability/id502492375
 
