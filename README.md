@@ -108,3 +108,4 @@ D. Extra stat things
 
 -Non-parametric statistics. It is quite useful to be familiar with non-parametric methods, given that real-world data tends to be messy, and parametric assumptions are often violated.
 
+Next steps: Check out my Big Data Tools and Scala tutorials. 
