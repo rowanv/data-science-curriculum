@@ -10,4 +10,6 @@ Learning Scala in Small Bites http://matt.might.net/articles/learning-scala-in-s
 
 II. Basic overview and examples
 
-Scala for the Impatient
+Horstmann's Scala for the Impatient
+
+Scala Labs http://scala-labs.github.io/getting-started.html
